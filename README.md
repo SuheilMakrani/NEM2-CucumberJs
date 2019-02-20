@@ -7,7 +7,7 @@ It contains the FEATURES files with the scenarios (test cases) to test out vario
 
 * Scenarios are the .FEATURE files located inside the **/features** directory.    
 * Step Definitions are the Javascript files located inside the **/features/step_definitions** directory.    
-* This project is done by two interns [SuheilMakrani](https://github.com/SuheilMakrani) and [Ken Low](https://github.com/lowkaweiken) learning and working on the Cucumber Testing Framework. A pull request (PR) will be made soon to demonstrate the scenarios done. 
+* This project is done by two interns [SuheilMakrani](https://github.com/SuheilMakrani) and [Ken Low](https://github.com/lowkaweiken) from NEM Malaysia learning and working on the Cucumber Testing Framework. A pull request (PR) will be made soon to demonstrate the scenarios done. 
 * For more detailed scenarios, please refer to https://github.com/nemtech/nem2-scenarios.git 
 
 _More Scenarios to be added_
